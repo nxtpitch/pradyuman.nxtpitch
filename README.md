@@ -1,4 +1,2 @@
-# pradyuman.nxtpitch
-
-
-Pradyuman Mittal's NXTPitch Site
+# aniveera1.github.io
+Source code for my personal website
